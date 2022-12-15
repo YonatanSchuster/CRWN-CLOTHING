@@ -5,14 +5,14 @@ Due my React course I built an Ecommerce app for a clothing brand.
 
 The tech-stack i used so far:
 
-- React, Javascript, HTML, CSS and Firebase.
+- React, Redux, Javascript, HTML, CSS and Firebase.
 
 Also used React Router for routing through the components and Styled Components for CSS styling.
 
 #### 🛠 The app is still on work 🛠
 
 I'm still working on the app to add more features like online payments with 'Stripe', </br>
-and use more advanced technologies like Redux, GraphQL and TypeScript so saty tuned!!
+and use more advanced technologies like GraphQL and TypeScript so saty tuned!!
 
 ### To run the project:
 
